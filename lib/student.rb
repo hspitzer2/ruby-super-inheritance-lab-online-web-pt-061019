@@ -1,10 +1,10 @@
 class Student
 
   def hello
-    puts  "Hey there!"
+    "Hey there!"
   end
 
   def raise_hand
-     puts "pick me"
+    puts "pick me"
   end
 end
